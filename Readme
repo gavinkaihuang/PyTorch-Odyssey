@@ -1,0 +1,5 @@
+
+
+1.test_mps.py     确认 PyTorch 能否调用你的 GPU (NPU) 进行加速
+device='mps': 在 NVIDIA 显卡上我们写 device='cuda'，而在 Mac 上必须写 device='mps'。
+
